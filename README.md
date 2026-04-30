@@ -1,2 +1,2 @@
 # practicecoding
-practice codes 
+practice code daily.
